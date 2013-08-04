@@ -1,0 +1,56 @@
+
+#sign-in-box{
+	background: #FFFFFF;
+	overflow: auto;
+	float: left;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #CBCBCB;
+}
+
+#login{
+
+ 	border-style: solid #777; 
+}
+ 
+ #container{
+ 	padding-top: 50px;
+ 	padding-right: 200px;
+ 	padding-left: 150px;
+ 	width: auto;
+	overflow: auto;
+ }
+
+ 
+
+ #image1{
+ 	padding-left: 100px;
+ 	padding-top: 20px;
+ 	height: 200px;
+ }
+
+ #header{
+ 	background: #000000;
+ 	border-style: solid;
+	border-width: 1px;
+	border-color: #CBCBCB;
+ 	padding-left: 150px;
+ 	padding-right: 100px;
+ 	overflow: auto;
+ }
+
+ #signup{
+ 	float: right;
+ }
+
+ #wrapper{
+    padding-bottom: 230px;
+ }
+
+ h1{
+    color: white;
+ }

@@ -1,0 +1,22 @@
+#wrapper{
+	overflow: auto;
+	padding-left: 150px;
+	padding-right: 150px;
+	padding-bottom: 232px;
+}
+
+#header{
+	overflow: auto;
+	background: #000000;
+	padding-left: 150px;
+}
+
+#container{
+	padding: 30px;
+	overflow: auto;
+	background: FFFFFF;
+}
+
+h1{
+	color: white;
+}
